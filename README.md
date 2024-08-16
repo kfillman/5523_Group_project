@@ -1,0 +1,1 @@
+Students were asked to create a classifier of thier choosing as a group project. Our group chose to find if it was possible to classify songs, based on values provided in our dataset, by genre. While this was not possible, we instead create new, quantifiable genres for music.
